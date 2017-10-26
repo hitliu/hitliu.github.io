@@ -1,0 +1,24 @@
+body {
+  padding-top: 0px;
+}
+.starter-template {
+  padding: 20px 15px;
+  text-align: center;
+}
+
+
+
+/*
+ * Footer
+ */
+
+.myfooter {
+  padding: 30px 0;
+  color: #999;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: 1px solid #e5e5e5;
+}
+.myfooter p:last-child {
+  margin-bottom: 0;
+}
